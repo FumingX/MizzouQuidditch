@@ -1,0 +1,292 @@
+fileFormatVersion: 2
+guid: 1176b36611f9d2640a218a81bf238da3
+timeCreated: 1492040021
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body__CorrugatorLeft
+    100002: Body__CorrugatorRight
+    100004: Body__EyeLeft
+    100006: Body__EyeLidLeftBottom
+    100008: Body__EyeLidLeftTop
+    100010: Body__EyeLidRightBottom
+    100012: Body__EyeLidRightTop
+    100014: Body__EyeRight
+    100016: Body__FrontalisLeft
+    100018: Body__FrontalisRight
+    100020: Body__jaw
+    100022: Body__jawBot
+    100024: Body__LevatorLabiiLeft
+    100026: Body__LevatorLabiiRight
+    100028: Body__Mouth
+    100030: Body__OrbicularisOrisBottom
+    100032: Body__OrbicularisOrisTop
+    100034: Body__Tongue
+    100036: Body__TriangularisLeft
+    100038: Body__TriangularisRight
+    100040: Body__ZygomaticLeft
+    100042: Body__ZygomaticRight
+    100044: Body_Broom
+    100046: Body_capeHoodBot
+    100048: Body_capeHoodEnd
+    100050: Body_capeHoodTop
+    100052: Body_capelbBackTop
+    100054: Body_capelbSideBot
+    100056: Body_capelbSideLower
+    100058: Body_capelbSideMid
+    100060: Body_capelbSideMidLower
+    100062: Body_capelbSideMidUpper
+    100064: Body_capelbSideTip
+    100066: Body_capelSideBot
+    100068: Body_capelSideEnd
+    100070: Body_capelSideLower
+    100072: Body_capelSideMid
+    100074: Body_capelSideMidUpper
+    100076: Body_capelSideTip
+    100078: Body_capelSideTop
+    100080: Body_caperbBackTop
+    100082: Body_caperbSideBot
+    100084: Body_caperbSideLower
+    100086: Body_caperbSideMid
+    100088: Body_caperbSideMidLower
+    100090: Body_caperbSideMidUpper
+    100092: Body_caperbSideTip
+    100094: Body_caperSideLower
+    100096: Body_caperSideMid
+    100098: Body_caperSideMidUpper
+    100100: Body_caperSideTip
+    100102: Body_caperSideTop
+    100104: Body_capeTop
+    100106: Body_capeWaist
+    100108: Body_Head
+    100110: Body_lBall
+    100112: Body_lClav
+    100114: Body_lCuff
+    100116: Body_lCuffBot
+    100118: Body_lElbow
+    100120: Body_lFingerBackMid
+    100122: Body_lFingerBackTop
+    100124: Body_lFingerBot
+    100126: Body_lFingerMid
+    100128: Body_lFingerMidBot
+    100130: Body_lFingerMidMid
+    100132: Body_lHand
+    100134: body_lheel
+    100136: Body_lHip
+    100138: Body_lKnee
+    100140: body_lowerspine
+    100142: Body_lShoulder
+    100144: Body_lThumbBot
+    100146: Body_lThumbTop
+    100148: Body_lToe
+    100150: Body_midSpine
+    100152: Body_Neck
+    100154: Body_neckBase
+    100156: Body_rBall
+    100158: Body_rClav
+    100160: Body_rCuff
+    100162: Body_rCuffBot
+    100164: Body_rElbow
+    100166: Body_rFingerBackBot
+    100168: Body_rFingerBackMid
+    100170: Body_rFingerBackTop
+    100172: Body_rFingerMidBot
+    100174: Body_rFingerMidMid
+    100176: Body_rFingerMidTop
+    100178: body_rhand
+    100180: body_rheel
+    100182: Body_rHip
+    100184: Body_rKnee
+    100186: body_root
+    100188: Body_rShoulder
+    100190: Body_rThumb
+    100192: Body_rThumbBot
+    100194: Body_rToe
+    100196: Body_topSpine
+    100198: //RootNode
+    100200: HarryQuid
+    400000: Body__CorrugatorLeft
+    400002: Body__CorrugatorRight
+    400004: Body__EyeLeft
+    400006: Body__EyeLidLeftBottom
+    400008: Body__EyeLidLeftTop
+    400010: Body__EyeLidRightBottom
+    400012: Body__EyeLidRightTop
+    400014: Body__EyeRight
+    400016: Body__FrontalisLeft
+    400018: Body__FrontalisRight
+    400020: Body__jaw
+    400022: Body__jawBot
+    400024: Body__LevatorLabiiLeft
+    400026: Body__LevatorLabiiRight
+    400028: Body__Mouth
+    400030: Body__OrbicularisOrisBottom
+    400032: Body__OrbicularisOrisTop
+    400034: Body__Tongue
+    400036: Body__TriangularisLeft
+    400038: Body__TriangularisRight
+    400040: Body__ZygomaticLeft
+    400042: Body__ZygomaticRight
+    400044: Body_Broom
+    400046: Body_capeHoodBot
+    400048: Body_capeHoodEnd
+    400050: Body_capeHoodTop
+    400052: Body_capelbBackTop
+    400054: Body_capelbSideBot
+    400056: Body_capelbSideLower
+    400058: Body_capelbSideMid
+    400060: Body_capelbSideMidLower
+    400062: Body_capelbSideMidUpper
+    400064: Body_capelbSideTip
+    400066: Body_capelSideBot
+    400068: Body_capelSideEnd
+    400070: Body_capelSideLower
+    400072: Body_capelSideMid
+    400074: Body_capelSideMidUpper
+    400076: Body_capelSideTip
+    400078: Body_capelSideTop
+    400080: Body_caperbBackTop
+    400082: Body_caperbSideBot
+    400084: Body_caperbSideLower
+    400086: Body_caperbSideMid
+    400088: Body_caperbSideMidLower
+    400090: Body_caperbSideMidUpper
+    400092: Body_caperbSideTip
+    400094: Body_caperSideLower
+    400096: Body_caperSideMid
+    400098: Body_caperSideMidUpper
+    400100: Body_caperSideTip
+    400102: Body_caperSideTop
+    400104: Body_capeTop
+    400106: Body_capeWaist
+    400108: Body_Head
+    400110: Body_lBall
+    400112: Body_lClav
+    400114: Body_lCuff
+    400116: Body_lCuffBot
+    400118: Body_lElbow
+    400120: Body_lFingerBackMid
+    400122: Body_lFingerBackTop
+    400124: Body_lFingerBot
+    400126: Body_lFingerMid
+    400128: Body_lFingerMidBot
+    400130: Body_lFingerMidMid
+    400132: Body_lHand
+    400134: body_lheel
+    400136: Body_lHip
+    400138: Body_lKnee
+    400140: body_lowerspine
+    400142: Body_lShoulder
+    400144: Body_lThumbBot
+    400146: Body_lThumbTop
+    400148: Body_lToe
+    400150: Body_midSpine
+    400152: Body_Neck
+    400154: Body_neckBase
+    400156: Body_rBall
+    400158: Body_rClav
+    400160: Body_rCuff
+    400162: Body_rCuffBot
+    400164: Body_rElbow
+    400166: Body_rFingerBackBot
+    400168: Body_rFingerBackMid
+    400170: Body_rFingerBackTop
+    400172: Body_rFingerMidBot
+    400174: Body_rFingerMidMid
+    400176: Body_rFingerMidTop
+    400178: body_rhand
+    400180: body_rheel
+    400182: Body_rHip
+    400184: Body_rKnee
+    400186: body_root
+    400188: Body_rShoulder
+    400190: Body_rThumb
+    400192: Body_rThumbBot
+    400194: Body_rToe
+    400196: Body_topSpine
+    400198: //RootNode
+    400200: HarryQuid
+    4300000: HarryQuid
+    7400000: BroomMount_Take 001
+    7400002: FallLook_Take 001
+    7400004: Fall_Take 001
+    7400006: FlyToStop_Take 001
+    7400008: Hover_Take 001
+    7400010: Idle_Take 001
+    7400012: LookDown_Take 001
+    7400014: ReachLoop_Take 001
+    7400016: Reach_Take 001
+    7400018: Stand_Take 001
+    7400020: lookaround_Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: HarryQuid
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
