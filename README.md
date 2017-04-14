@@ -1,2 +1,2 @@
 # MizzouQuidditch
-Computer Graphics 1 Final Project
+<head>Computer Graphics 1 Final Project<head/>
